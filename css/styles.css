@@ -120,6 +120,10 @@ ol {
 
 .team-item {
   background-color: #ffffff;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .team-subtitle {
@@ -203,11 +207,4 @@ ol {
 }
 .team-section {
   background-color: #f4f4fd;
-}
-
-.features-list {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
 }
